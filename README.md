@@ -1,3 +1,9 @@
+▶️ Demo & APK
+
+Demo video: https://drive.google.com/file/d/1ANGDmijZZTVH8OXE_IkLGAwfd5HImkxi/view?usp=sharing 
+APK: https://drive.google.com/file/d/1FG4cW9Rl4HX15moVabylHfeEW-Q2hUa8/view?usp=sharing (You can download and test on device.)
+
+
 🎯 Goal & Scope
 
 A complete AR application was built in Unity and prepared for in-class demonstration. The app includes stationary/animated objects, independently moving objects, user-driven scenario steps, image and video mapping, text display, and button-based scenario switching—covering every requirement in the brief. 
@@ -60,13 +66,6 @@ On device, grant camera permissions and run the app.
 
 Note: The repo uses Unity’s standard .gitignore (e.g., Library/, Temp/, Obj/, Build/ are excluded). If you need a full, package-complete download, use the Drive link above.
 
-▶️ Demo & APK
-
-Demo video: https://drive.google.com/file/d/1ANGDmijZZTVH8OXE_IkLGAwfd5HImkxi/view?usp=sharing 
-
-Homework1
-
-APK: https://drive.google.com/file/d/1FG4cW9Rl4HX15moVabylHfeEW-Q2hUa8/view?usp=sharing (You can download and test on device.)
 
 
 🧭 Usage (Example)
